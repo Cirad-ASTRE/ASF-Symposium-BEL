@@ -1,0 +1,8 @@
+*.pdf
+*.pptx
+.Rproj.user
+.Rhistory
+admin
+logistics
+paper_FMunoz.docx
+src_project

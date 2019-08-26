@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1566825831296.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3731558637",
+    "id" : "BD9F5F5E",
+    "lastKnownWriteTime" : 1566826976,
+    "last_content_update" : 1566826976371,
+    "path" : "~/Work/Meetings/2019.05.Symposium_PPA-Liege/.gitignore",
+    "project_path" : ".gitignore",
+    "properties" : {
+        "cursorPosition" : "7,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "gitignore"
+}
